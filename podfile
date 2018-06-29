@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+use_frameworks!
+target 'WQNetWorkRequest' do
+	pod 'Alamofire'
+        pod 'Moya'
+        pod 'PromiseKit'
+        pod 'Alamofire'
+end
